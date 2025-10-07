@@ -11,3 +11,8 @@
 console.log("Hello World")
 ```
 
+- [x] Added headings
+- [x] Added image
+- [x] Added code
+- [ ] Finished exercise
+
